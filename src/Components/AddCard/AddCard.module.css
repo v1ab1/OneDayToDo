@@ -1,0 +1,24 @@
+.add {
+  display: flex;
+  gap: 8px;
+  border: 2px solid gray;
+  border-radius: 12px;
+  padding: 5px 10px;
+  background-color: rgb(247, 246, 246);
+}
+.color {
+  width: 32px;
+  height: 32px;
+  background-color: red;
+  border-radius: 1000px;
+  flex-shrink: 0;
+}
+.input {
+  width: 100%;
+  border: none;
+  background-color: transparent;
+  font-size: 18px;
+}
+.input:focus {
+  outline: none;
+}

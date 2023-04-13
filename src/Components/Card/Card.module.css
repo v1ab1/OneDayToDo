@@ -1,0 +1,29 @@
+.card {
+  display: flex;
+  gap: 8px;
+  border: 2px solid gray;
+  border-radius: 12px;
+  padding: 5px 10px;
+}
+.card > button > svg:first-of-type {
+  scale: 0.95;
+}
+.card > button > svg:last-of-type {
+  scale: 1.2;
+}
+.color {
+  width: 32px;
+  height: 32px;
+  background-color: red;
+  border-radius: 1000px;
+  flex-shrink: 0;
+}
+.input {
+  width: 100%;
+  border: none;
+  background-color: transparent;
+  font-size: 18px;
+}
+.input:focus {
+  outline: none;
+}

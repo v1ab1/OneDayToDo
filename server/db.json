@@ -1,0 +1,50 @@
+[
+  {
+    "color": "green",
+    "done": true,
+    "index": 4.98976084781048e+307,
+    "placeholder": "Пожрать"
+  },
+  {
+    "placeholder": "123",
+    "color": "red",
+    "done": true,
+    "index": 3.5897323921044663e+307
+  },
+  {
+    "placeholder": "5555",
+    "color": "red",
+    "done": false,
+    "index": 1.149670818598103e+308
+  },
+  {
+    "placeholder": "552342",
+    "color": "red",
+    "done": true,
+    "index": 1.2368826654043586e+308
+  },
+  {
+    "placeholder": "жесть",
+    "color": "blue",
+    "done": false,
+    "index": 6.410828053811832e+307
+  },
+  {
+    "placeholder": "финали",
+    "color": "purple",
+    "done": false,
+    "index": 1.4455869980450708e+308
+  },
+  {
+    "placeholder": "dsadasdadas",
+    "color": "purple",
+    "done": false,
+    "index": 6.817027037807961e+307
+  },
+  {
+    "placeholder": "knnk",
+    "color": "purple",
+    "done": false,
+    "index": 1.7450925927571716e+308
+  }
+]
